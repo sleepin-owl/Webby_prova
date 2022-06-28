@@ -1,0 +1,45 @@
+.title {
+    text-align: center;
+}
+
+.title-search {
+    text-align: left;
+    font-style: italic;
+}
+
+.site-description {
+    text-align: justify;
+}
+
+p.welcome-caption {
+    color: gray;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+.intro-par {
+    color: white;
+    font-size: 1rem;
+    background-color: rgb(51, 51, 51);
+    padding: 2%;
+    border-radius: 1rem;
+}
+
+.same-artist {
+    color: black;
+    font-size: 1rem;
+    background-color: rgb(168, 185, 234);
+    padding: 1%;
+    padding-left: 3%;
+    border-radius: 1rem;
+}
+
+.song_info {
+    display: inline;
+}
+
+.recommended-song {
+    color: gray;
+    font-size: 1rem;
+    font-style: italic;
+}
